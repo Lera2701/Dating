@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="certain_counter" uuid="e96d6918-d41f-472a-8fbf-62d6fe3d975d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\php\pz2\certain_counter.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="users" uuid="d9b22546-4c38-4794-895e-3349cd660a8f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\php\pz2\users.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="users1" uuid="0e0ca4cf-c3e2-49e1-8eee-5d983c912745">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\php\pz2\users1.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
